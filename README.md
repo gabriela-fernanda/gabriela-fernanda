@@ -13,6 +13,21 @@
 
 ## Minhas Tecnologias
 
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width = 100px>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width = 100px>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width = 100px>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width = 100px>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = 100px>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = 100px>
+
+---------
+| Cursos | Certificados |
+| ------ | ------------ |
+| Formação Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/SNLWXYBN.pdf) |
+
+--------
+
+![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriela-fernanda&show_icons=true&theme=gruvbox)
 
 
 
