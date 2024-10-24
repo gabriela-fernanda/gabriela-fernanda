@@ -29,8 +29,8 @@
 
 --------
 
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriela-fernanda&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-fernanda&layout=compact&langs_count=7&theme=synthwave)
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=gabriela-fernanda&show_icons=true&theme=synthwave">
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-fernanda&layout=compact&langs_count=7&theme=synthwave">
 
 
 
