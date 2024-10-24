@@ -27,7 +27,7 @@
 
 --------
 
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriela-fernanda&show_icons=true&theme=merko)
+![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriela-fernanda&show_icons=true&theme=synthwave)
 
 
 
