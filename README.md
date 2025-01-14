@@ -26,6 +26,7 @@
 | Cursos | Certificados |
 | ------ | ------------ |
 | Formação Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/SNLWXYBN.pdf) |
+| Formação Github Certification | [Certificado](https://hermes.dio.me/certificates/PIZQNJZ4.pdf) |
 
 --------
 
