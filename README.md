@@ -28,7 +28,7 @@
 | Formação Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/SNLWXYBN.pdf) |
 | Formação Github Certification | [Certificado](https://hermes.dio.me/certificates/PIZQNJZ4.pdf) |
 | Formação HTML Web Developer | [Certificado](https://hermes.dio.me/certificates/JZB9GNOY.pdf) |
-| Programação Orientada a Objetos com TypeScript | [Certificado](https://hermes.dio.me/certificates/L0KEHMX8.pdf) |
+| Formação Docker Fundamentals | [Certificado](https://hermes.dio.me/certificates/DGRWPFIY.pdf) |
 
 --------
 
